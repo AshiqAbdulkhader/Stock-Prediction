@@ -1,2 +1,2 @@
-# Stock-prediction-using-knowledge-graph
+# Stock Prediction
  
